@@ -1,2 +1,2 @@
 # Cat_Dog_Classifier_CNN
-It is cat and dog classifier by using Keras.
+It is a cat and dog classifier by using Keras.
